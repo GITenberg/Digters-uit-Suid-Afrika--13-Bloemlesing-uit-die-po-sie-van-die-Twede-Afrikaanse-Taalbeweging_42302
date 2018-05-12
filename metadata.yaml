@@ -50,6 +50,8 @@ creator:
     gutenberg_agent_id: '41623'
     url: http://www.gutenberg.org/2009/agents/41623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42302#Digters-uit-Suid-Afrika--13-Bloemlesing-uit-die-po-sie-van-die-Twede-Afrikaanse-Taalbeweging
 gutenberg_issued: '2013-03-10'
 gutenberg_type: Text
 identifiers:
