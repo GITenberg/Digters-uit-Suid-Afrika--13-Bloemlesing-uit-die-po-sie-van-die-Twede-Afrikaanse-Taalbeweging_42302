@@ -1,0 +1,65 @@
+_repo: Digters-uit-Suid-Afrika--13-Bloemlesing-uit-die-po-sie-van-die-Twede-Afrikaanse-Taalbeweging_42302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Totius
+    aliases:
+    - Toit, Jacob Daniel du
+    - Du Toit, J. D. (Jacob Daniel)
+    - Toit, J. D. du
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '6782'
+    url: http://www.gutenberg.org/2009/agents/6782
+  - agent_name: Leipoldt, C. Louis (Christiaan Louis)
+    aliases:
+    - Leipoldt, C. Louis (Christiaan Louis)
+    - Leipoldt, Christiaan Louis
+    - Leipoldt, Louis
+    - Pheidippides
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '8845'
+    url: http://www.gutenberg.org/2009/agents/8845
+    wikipedia: http://en.wikipedia.org/wiki/C._Louis_Leipoldt
+  - agent_name: Malherbe, Daniel François
+    aliases:
+    - Malherbe, D. F. (Daniel François)
+    - Malherbe, Daniel Francois
+    birthdate: 1881
+    deathdate: 1969
+    gutenberg_agent_id: '41622'
+    url: http://www.gutenberg.org/2009/agents/41622
+  - agent_name: Celliers, Jan François Elias
+    aliases:
+    - Celliers, Johannes François Elias
+    - Celliers, Jan Francois Elias
+    - Celliers, Jan F. E.
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '41620'
+    url: http://www.gutenberg.org/2009/agents/41620
+  editor:
+    agent_name: Pienaar, E. C. (Eduard Christiaan)
+    alias: Pienaar, Eduard Christiaan
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '41623'
+    url: http://www.gutenberg.org/2009/agents/41623
+description: ''
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42302'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Afrikaans poetry'
+title: "Digters uit Suid-Afrika\r\nBloemlesing uit die poësie van die Twede Afrikaanse-Taalbeweging"
+url: http://www.gutenberg.org/ebooks/42302
